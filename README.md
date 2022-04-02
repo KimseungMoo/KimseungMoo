@@ -1,4 +1,4 @@
-<span><a href="https://tobe-engineer.tistory.com/" target="_blank">
+<!-- <span><a href="https://tobe-engineer.tistory.com/" target="_blank"> -->
 <img alt="JavaScript" src ="https://img.shields.io/badge/Blog-00B388.svg?&style=for-the-badge&logo=&logoColor=white&style=flat"/>
 </a></span><span><img alt="JavaScript" src ="https://img.shields.io/badge/tmdan1346@gmail.com-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=flat"/></span>
 
