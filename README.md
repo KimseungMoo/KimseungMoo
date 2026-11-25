@@ -3,7 +3,7 @@
 
 안녕하세요👋 소프트웨어 개발자 김승무입니다.
 
-### 💪 Skills
+<!-- ### 💪 Skills -->
 <!-- #### Strong -->
 <!-- <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white&style=flat"/> <img alt="ReactNative" src ="https://img.shields.io/badge/React Native-0088CC.svg?&style=for-the-badge&logo=react&logoColor=white&style=flat"/>  -->
 <!-- <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white&style=flat"/> -->
